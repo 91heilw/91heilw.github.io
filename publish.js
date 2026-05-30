@@ -42,7 +42,7 @@ var urls=[
     'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://chigua91.net";
 
 var newestUrls = [];
 
