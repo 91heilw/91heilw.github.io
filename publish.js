@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    '91heilw@gmail.com'
 ];
 
 var urls=[
@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://91heilw.pages.dev',
+	'https://91heilw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https:// 91heiliao.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://91heilw.com',
 	
 ];
 var notices = [
@@ -133,7 +133,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52成人导航'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91黑料网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
