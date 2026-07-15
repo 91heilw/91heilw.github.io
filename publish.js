@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'roiziixg.cc/', 
 	'vukynvfrj.cc/', 
-    'adpwkaps.cc/',
+    'nwpsfgaj.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://chigua91.net";
+var JumpPage="https://wdsejmbm.cc";
 
 var newestUrls = [];
 
