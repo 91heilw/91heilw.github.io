@@ -42,7 +42,7 @@ var urls=[
     'nwpsfgaj.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://wdsejmbm.cc";
+var JumpPage="https://91hlw1.net";
 
 var newestUrls = [];
 
