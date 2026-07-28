@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'mrrcvguw.cc/', 
 	'lyatqffb.cc/, 
-    'wunjggueo.cc/',
+    'fznbhbdwb.com/',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw2.net";
+var JumpPage="https://91hlw3.net";
 
 var newestUrls = [];
 
