@@ -42,7 +42,7 @@ var urls=[
     'jcjauzdd.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw3.net";
+var JumpPage="https://91hlw4.net";
 
 var newestUrls = [];
 
