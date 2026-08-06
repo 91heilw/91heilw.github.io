@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'mrrcvguw.cc/', 
 	'lyatqffb.cc/, 
-    'jcjauzdd.cc/',
+    'shvikochq.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw4.net";
