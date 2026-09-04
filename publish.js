@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[
 	'mrrcvguw.cc/', 
-	'lyatqffb.cc/, 
+	'lyatqffb.cc/', 
     'zbwmxgjto.cc/',
 ];                                                                                                                  
 
@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://91heilw.github.io/',
 ];
 var foreverUrls = [
-	  'https:// 91heiliao.net',
+	  'https://91heiliao.net',
 	JumpPage,
 	'https://91heilw.com',
 	
