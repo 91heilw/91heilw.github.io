@@ -42,7 +42,7 @@ var urls=[
 	'idjiizceb.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw8.net";
+var JumpPage="https://91hlw9.net";
 
 var newestUrls = [];
 
