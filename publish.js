@@ -42,7 +42,7 @@ var urls=[
 	'dh52u64z.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw9.net";
+var JumpPage="https://91hlw10.net";
 
 var newestUrls = [];
 
