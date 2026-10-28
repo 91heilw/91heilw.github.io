@@ -42,7 +42,7 @@ var urls=[
 	'0aa5qo8ql.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw10.net";
+var JumpPage="https://91hlw11.net";
 
 var newestUrls = [];
 
