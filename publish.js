@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'ntljuodks.cc',
 	'fm7d9qd9s.cc',
 	'nj0cr7gg.cc',
-	'0aa5qo8ql.cc',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw11.net";
