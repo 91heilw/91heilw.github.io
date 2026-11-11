@@ -42,7 +42,7 @@ var urls=[
 	'krvenmfn.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw12.net";
+var JumpPage="https://91hlw13.net";
 
 var newestUrls = [];
 
