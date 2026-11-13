@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'fuzmanqlw.cc',
 	'iyhngjnpi.cc',
 	'gagmarqq.cc',
-	'krvenmfn.cc',
 ];                                                                                                                  
 
 var JumpPage="https://91hlw13.net";
