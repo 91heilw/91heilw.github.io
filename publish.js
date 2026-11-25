@@ -42,7 +42,7 @@ var urls=[
 	'tnltgkdnk.cc',
 ];                                                                                                                  
 
-var JumpPage="https://91hlw14.net";
+var JumpPage="https://91hlw15.net";
 
 var newestUrls = [];
 
